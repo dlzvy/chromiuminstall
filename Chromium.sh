@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Skrip instalasi logo
-curl -s curl -s https://raw.githubusercontent.com/dlzvy/LOGOTES/refs/heads/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/dlzvy/LOGOTES/refs/heads/main/logo.sh | bash
 sleep 5
 
 # Fungsi untuk memeriksa apakah skrip dijalankan sebagai root
